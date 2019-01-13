@@ -1,5 +1,7 @@
 Nearby Vid
 
+Check package.json 1st
+
 Android:
 To run :  npm run debug-android-prod
 To create release build : (May require a new keystore) 
