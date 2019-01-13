@@ -30,7 +30,7 @@
 	<dict>
 		<key>NSExceptionDomains</key>
 		<dict>
-			<key>preproddemo.smartenspaces.com</key>
+			<key>dummy.basic.com</key>
 			<dict>
 				<key>NSExceptionAllowsInsecureHTTPLoads</key>
 				<true/>
@@ -42,9 +42,9 @@
 	<key>NSCameraUsageDescription</key>
 	<string>Would like to use the Camera</string>
 	<key>NSContactsUsageDescription</key>
-	<string>We require access to your contacts list to import details while inviting visitors to your work place, as well as to import recipient details for gifting within the community.</string>
+	<string>Contacts permission is required.</string>
 	<key>NSLocationWhenInUseUsageDescription</key>
-	<string>Your location will be used to navigate you within your current campus, find the nearest taxi hotspots, and determine campus shuttles near you.</string>
+	<string>Location access is required for NearBy Vids to work.</string>
 	<key>NSMicrophoneUsageDescription</key>
 	<string>$(PRODUCT_NAME) would like to use your microphone (for videos)</string>
 	<key>NSPhotoLibraryAddUsageDescription</key>
