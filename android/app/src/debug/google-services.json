@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "175777188670",
+    "firebase_url": "https://urncontainer-e2e38.firebaseio.com",
+    "project_id": "urncontainer-e2e38",
+    "storage_bucket": "urncontainer-e2e38.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175777188670:android:c91ffaae68794246",
+        "android_client_info": {
+          "package_name": "com.urnframework.nearbyvid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "175777188670-rtkc8lcjd2vkcgcqa505j5mnrk7dkl14.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCCy14l1w_0blvqiM6lb1eSao7sXGw-M0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

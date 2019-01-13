@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "163600129718",
+    "firebase_url": "https://nearbyvideos-a6089.firebaseio.com",
+    "project_id": "nearbyvideos-a6089",
+    "storage_bucket": "nearbyvideos-a6089.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163600129718:android:0a7e8b69e0361af9",
+        "android_client_info": {
+          "package_name": "com.urnframework.nearbyvid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "163600129718-4e7b5l0na3rsbkjp8g5rr4jheh0g0vaa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.urnframework.nearbyvid",
+            "certificate_hash": "d42152551ff861c7fbce84d58b8b9e4bf4aadd35"
+          }
+        },
+        {
+          "client_id": "163600129718-48dfoidkelthab0j5mg5t58f0pi51979.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGqxeiaxCobWpq09Lw1JKcPqiuoessQrE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "163600129718-48dfoidkelthab0j5mg5t58f0pi51979.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
