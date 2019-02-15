@@ -139,18 +139,6 @@ class AboutComponent extends React.PureComponent {
               </Text>
             </CardItem>
             <CardItem>
-              <Text
-                style={{
-                  fontSize: totalSize(1.5),
-                  fontFamily: DefaultAppTheme.primaryFontFamily,
-                  color: DefaultAppTheme.secondary,
-                  fontWeight: "300"
-                }}
-              >
-                The app was developed for the coding challenge given by Bonify.
-              </Text>
-            </CardItem>
-            <CardItem>
               <Left>
                 <Text
                   style={{
